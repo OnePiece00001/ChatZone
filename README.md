@@ -23,7 +23,7 @@ ChatZone is a Real-time web based chatting application which helps multiple user
 ### Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Vivek5207/Chat-App.git
+    git clone https://github.com/OnePiece00001/ChatZone.git
     cd Chat-App
     ```
 
