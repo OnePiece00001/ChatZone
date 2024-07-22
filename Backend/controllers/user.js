@@ -27,10 +27,6 @@ const newUser = TryCatch(async (req, res, next) => {
     public_id: result[0].public_id,
     url: result[0].url,
   };
-  // const avatar = {
-  //   public_id: 1,
-  //   url: "OIP.jpeg",
-  // };
   const user = await User.create({
     name,
     bio,
